@@ -1,0 +1,18 @@
+This project analyzes student feedback collected from college events such as tech fests, workshops, and cultural activities. The goal is to understand participant satisfaction, identify areas for improvement, and provide actionable recommendations for organizers.
+
+## Features
+- **Rating Analysis:** Visualizes average ratings and distribution of responses for each event/course.
+- **Sentiment Analysis:** Analyzes text comments (positive, neutral, negative) to gauge participant sentiment.
+- **Recommendations:** Automatically suggests improvements based on rating trends and feedback insights.
+- **Visualizations:** Includes bar charts, stacked charts, and summary tables for easy interpretation.
+
+## Tools & Libraries
+- Python (pandas, matplotlib, seaborn)
+- Jupyter Notebook / Google Colab
+
+
+## Outcome
+- Interactive charts showing satisfaction trends.
+- Sentiment summary of feedback comments.
+- Key recommendations for improving future events.
+
